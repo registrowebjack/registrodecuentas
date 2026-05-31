@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T01:08:46.935Z",
+  "generated_at": "2026-05-31T01:52:39.606Z",
   "note": "Passwords excluded from backups for security",
   "own_accounts": [
     {
@@ -825,6 +825,19 @@
       "status": "in_use",
       "notes": "",
       "created_at": "2026-05-30T18:11:11.929Z"
+    },
+    {
+      "id": 53,
+      "provider_id": 1,
+      "email": "snajdjjwo193829@outlook.com",
+      "platform": "Prime Video",
+      "duration": "6",
+      "purchase_date": "2026-05-30T00:00:00.000Z",
+      "expiry_date": "2026-11-30T00:00:00.000Z",
+      "purchase_price": "2.00",
+      "status": "in_use",
+      "notes": "",
+      "created_at": "2026-05-31T01:45:39.490Z"
     }
   ],
   "profile_groups": [
@@ -1191,6 +1204,19 @@
       "account_id": 28,
       "notes": "",
       "created_at": "2026-05-30T18:47:02.154Z"
+    },
+    {
+      "id": 36,
+      "email": "snajdjjwo193829@outlook.com",
+      "platform": "Prime Video",
+      "duration": "6",
+      "profiles_count": 6,
+      "price_per_profile": "1.00",
+      "sale_price": "6.00",
+      "account_source": "provider",
+      "account_id": 53,
+      "notes": "",
+      "created_at": "2026-05-31T01:45:58.128Z"
     }
   ],
   "profile_sales": [
@@ -3008,6 +3034,72 @@
       "status": "active",
       "notes": null,
       "created_at": "2026-05-31T01:03:38.324Z"
+    },
+    {
+      "id": 169,
+      "group_id": 36,
+      "order_number": null,
+      "client_name": null,
+      "purchase_date": "2026-05-30T00:00:00.000Z",
+      "expiry_date": "2026-11-30T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-05-31T01:45:58.128Z"
+    },
+    {
+      "id": 170,
+      "group_id": 36,
+      "order_number": null,
+      "client_name": null,
+      "purchase_date": "2026-05-30T00:00:00.000Z",
+      "expiry_date": "2026-11-30T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-05-31T01:45:58.128Z"
+    },
+    {
+      "id": 171,
+      "group_id": 36,
+      "order_number": null,
+      "client_name": null,
+      "purchase_date": "2026-05-30T00:00:00.000Z",
+      "expiry_date": "2026-11-30T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-05-31T01:45:58.128Z"
+    },
+    {
+      "id": 172,
+      "group_id": 36,
+      "order_number": null,
+      "client_name": null,
+      "purchase_date": "2026-05-30T00:00:00.000Z",
+      "expiry_date": "2026-11-30T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-05-31T01:45:58.128Z"
+    },
+    {
+      "id": 173,
+      "group_id": 36,
+      "order_number": null,
+      "client_name": null,
+      "purchase_date": "2026-05-30T00:00:00.000Z",
+      "expiry_date": "2026-11-30T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-05-31T01:45:58.128Z"
+    },
+    {
+      "id": 174,
+      "group_id": 36,
+      "order_number": null,
+      "client_name": null,
+      "purchase_date": "2026-05-30T00:00:00.000Z",
+      "expiry_date": "2026-11-30T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-05-31T01:45:58.128Z"
     }
   ],
   "full_account_sales": [
