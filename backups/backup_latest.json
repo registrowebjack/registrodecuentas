@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T01:52:39.574Z",
+  "generated_at": "2026-06-01T07:52:39.632Z",
   "note": "Passwords excluded from backups for security",
   "own_accounts": [
     {
@@ -877,6 +877,19 @@
       "status": "in_use",
       "notes": "",
       "created_at": "2026-05-31T21:47:37.791Z"
+    },
+    {
+      "id": 57,
+      "provider_id": null,
+      "email": "triciaannmik@gmail.com",
+      "platform": "Disney+",
+      "duration": "6",
+      "purchase_date": "2026-05-31T00:00:00.000Z",
+      "expiry_date": "2026-11-30T00:00:00.000Z",
+      "purchase_price": "1.10",
+      "status": "in_use",
+      "notes": "",
+      "created_at": "2026-06-01T04:56:19.896Z"
     }
   ],
   "profile_groups": [
@@ -1282,6 +1295,19 @@
       "account_id": 55,
       "notes": "",
       "created_at": "2026-05-31T06:07:55.745Z"
+    },
+    {
+      "id": 41,
+      "email": "triciaannmik@gmail.com",
+      "platform": "Disney+",
+      "duration": "6",
+      "profiles_count": 1,
+      "price_per_profile": "5.00",
+      "sale_price": "5.00",
+      "account_source": "provider",
+      "account_id": 57,
+      "notes": "",
+      "created_at": "2026-06-01T04:56:58.507Z"
     }
   ],
   "profile_sales": [
@@ -3286,6 +3312,17 @@
       "status": "active",
       "notes": null,
       "created_at": "2026-05-31T06:07:55.745Z"
+    },
+    {
+      "id": 186,
+      "group_id": 41,
+      "order_number": "848793973144293376",
+      "client_name": "GAMSGO",
+      "purchase_date": "2026-05-31T00:00:00.000Z",
+      "expiry_date": "2026-11-30T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-01T04:56:58.507Z"
     }
   ],
   "full_account_sales": [
