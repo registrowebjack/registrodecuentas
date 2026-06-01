@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T20:19:23.382Z",
+  "generated_at": "2026-06-01T21:14:04.990Z",
   "note": "Passwords excluded from backups for security",
   "own_accounts": [
     {
@@ -113,15 +113,15 @@
       "created_at": "2026-05-30T18:46:25.492Z"
     },
     {
-      "id": 29,
-      "email": "peperonilli@gmail.com",
+      "id": 30,
+      "email": "nana@gmail.com",
       "platform": "Netflix",
-      "duration": "1",
-      "start_date": "2026-05-21T00:00:00.000Z",
-      "end_date": "2026-06-21T00:00:00.000Z",
+      "duration": "",
+      "start_date": "2025-12-12T00:00:00.000Z",
+      "end_date": "2026-12-12T00:00:00.000Z",
       "status": "sold",
       "notes": "",
-      "created_at": "2026-05-31T01:03:14.905Z"
+      "created_at": "2026-06-01T21:05:18.437Z"
     }
   ],
   "providers": [
@@ -1334,6 +1334,19 @@
       "account_id": 59,
       "notes": "",
       "created_at": "2026-06-01T17:37:41.134Z"
+    },
+    {
+      "id": 44,
+      "email": "nana@gmail.com",
+      "platform": "Netflix",
+      "duration": "",
+      "profiles_count": 2,
+      "price_per_profile": "2.01",
+      "sale_price": "4.02",
+      "account_source": "own",
+      "account_id": 30,
+      "notes": "",
+      "created_at": "2026-06-01T21:06:47.112Z"
     }
   ],
   "profile_sales": [
@@ -3492,6 +3505,28 @@
       "status": "active",
       "notes": null,
       "created_at": "2026-06-01T17:37:41.134Z"
+    },
+    {
+      "id": 200,
+      "group_id": 44,
+      "order_number": null,
+      "client_name": null,
+      "purchase_date": "2025-12-12T00:00:00.000Z",
+      "expiry_date": "2026-12-12T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-01T21:06:47.112Z"
+    },
+    {
+      "id": 201,
+      "group_id": 44,
+      "order_number": null,
+      "client_name": null,
+      "purchase_date": "2025-12-12T00:00:00.000Z",
+      "expiry_date": "2026-12-12T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-01T21:06:47.112Z"
     }
   ],
   "full_account_sales": [
