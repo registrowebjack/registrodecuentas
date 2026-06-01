@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T21:14:04.990Z",
+  "generated_at": "2026-06-01T21:34:33.037Z",
   "note": "Passwords excluded from backups for security",
   "own_accounts": [
     {
@@ -114,7 +114,7 @@
     },
     {
       "id": 30,
-      "email": "nana@gmail.com",
+      "email": "caca@gmail.com",
       "platform": "Netflix",
       "duration": "",
       "start_date": "2025-12-12T00:00:00.000Z",
@@ -1337,7 +1337,7 @@
     },
     {
       "id": 44,
-      "email": "nana@gmail.com",
+      "email": "caca@gmail.com",
       "platform": "Netflix",
       "duration": "",
       "profiles_count": 2,
