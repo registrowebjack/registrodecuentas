@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T21:34:33.263Z",
+  "generated_at": "2026-06-04T03:34:33.088Z",
   "note": "Passwords excluded from backups for security",
   "own_accounts": [
     {
@@ -122,6 +122,28 @@
       "status": "sold",
       "notes": "",
       "created_at": "2026-06-02T23:27:48.717Z"
+    },
+    {
+      "id": 32,
+      "email": "rtlser@oficialjack.online",
+      "platform": "RTL+",
+      "duration": "3",
+      "start_date": "2026-06-03T00:00:00.000Z",
+      "end_date": "2026-09-03T00:00:00.000Z",
+      "status": "sold",
+      "notes": "",
+      "created_at": "2026-06-03T23:03:48.045Z"
+    },
+    {
+      "id": 33,
+      "email": "stereo@oficialjack.online",
+      "platform": "RTL+",
+      "duration": "1",
+      "start_date": "2026-06-03T00:00:00.000Z",
+      "end_date": "2026-09-03T00:00:00.000Z",
+      "status": "sold",
+      "notes": "",
+      "created_at": "2026-06-04T00:15:07.548Z"
     }
   ],
   "providers": [
@@ -4244,6 +4266,38 @@
       "status": "active",
       "notes": "",
       "created_at": "2026-06-03T21:20:47.223Z"
+    },
+    {
+      "id": 42,
+      "email": "rtlser@oficialjack.online",
+      "platform": "RTL+",
+      "order_number": "850235913643626496",
+      "client_name": "GAMSGO",
+      "duration": "3",
+      "purchase_date": "2026-06-03T00:00:00.000Z",
+      "expiry_date": "2026-09-03T00:00:00.000Z",
+      "sale_price": "8.50",
+      "account_source": "own",
+      "account_id": 32,
+      "status": "active",
+      "notes": "",
+      "created_at": "2026-06-03T23:04:27.432Z"
+    },
+    {
+      "id": 43,
+      "email": "stereo@oficialjack.online",
+      "platform": "RTL+",
+      "order_number": "850243638641430528",
+      "client_name": "GAMSGO",
+      "duration": "1",
+      "purchase_date": "2026-06-03T00:00:00.000Z",
+      "expiry_date": "2026-09-03T00:00:00.000Z",
+      "sale_price": "8.00",
+      "account_source": "own",
+      "account_id": 33,
+      "status": "active",
+      "notes": "",
+      "created_at": "2026-06-04T00:15:30.786Z"
     }
   ]
 }
