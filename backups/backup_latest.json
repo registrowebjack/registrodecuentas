@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T15:34:33.131Z",
+  "generated_at": "2026-06-04T21:34:33.117Z",
   "note": "Passwords excluded from backups for security",
   "own_accounts": [
     {
@@ -144,6 +144,39 @@
       "status": "sold",
       "notes": "",
       "created_at": "2026-06-04T00:15:07.548Z"
+    },
+    {
+      "id": 34,
+      "email": " apple03@oficialjack.online",
+      "platform": "Apple TV+",
+      "duration": "1",
+      "start_date": "2026-05-04T00:00:00.000Z",
+      "end_date": null,
+      "status": "available",
+      "notes": "",
+      "created_at": "2026-06-04T21:04:53.851Z"
+    },
+    {
+      "id": 35,
+      "email": " apple04@oficialjack.online",
+      "platform": "Apple TV+",
+      "duration": "1",
+      "start_date": "2026-06-04T00:00:00.000Z",
+      "end_date": null,
+      "status": "available",
+      "notes": "",
+      "created_at": "2026-06-04T21:05:18.411Z"
+    },
+    {
+      "id": 36,
+      "email": " apple05@oficialjack.online",
+      "platform": "Apple TV+",
+      "duration": "1",
+      "start_date": "2026-06-04T00:00:00.000Z",
+      "end_date": null,
+      "status": "available",
+      "notes": "",
+      "created_at": "2026-06-04T21:05:45.842Z"
     }
   ],
   "providers": [
@@ -1075,6 +1108,32 @@
       "status": "in_use",
       "notes": "",
       "created_at": "2026-06-04T09:07:01.816Z"
+    },
+    {
+      "id": 72,
+      "provider_id": 3,
+      "email": "Disneyurus020@nutertool.net",
+      "platform": "Disney+",
+      "duration": "1",
+      "purchase_date": "2026-06-01T00:00:00.000Z",
+      "expiry_date": "2026-07-01T00:00:00.000Z",
+      "purchase_price": "3.27",
+      "status": "in_use",
+      "notes": "",
+      "created_at": "2026-06-04T20:26:55.767Z"
+    },
+    {
+      "id": 73,
+      "provider_id": 3,
+      "email": "fredrcd3@servcsmart.com.co",
+      "platform": "HBO Max",
+      "duration": "1",
+      "purchase_date": "2026-06-04T00:00:00.000Z",
+      "expiry_date": "2026-07-04T00:00:00.000Z",
+      "purchase_price": "1.87",
+      "status": "in_use",
+      "notes": "",
+      "created_at": "2026-06-04T21:00:40.425Z"
     }
   ],
   "profile_groups": [
@@ -1506,6 +1565,32 @@
       "account_id": 30,
       "notes": "",
       "created_at": "2026-06-01T21:06:47.112Z"
+    },
+    {
+      "id": 45,
+      "email": "Disneyurus020@nutertool.net",
+      "platform": "Disney+",
+      "duration": "1",
+      "profiles_count": 7,
+      "price_per_profile": "1.88",
+      "sale_price": "13.16",
+      "account_source": "provider",
+      "account_id": 72,
+      "notes": "",
+      "created_at": "2026-06-04T20:27:14.660Z"
+    },
+    {
+      "id": 46,
+      "email": "fredrcd3@servcsmart.com.co",
+      "platform": "HBO Max",
+      "duration": "1",
+      "profiles_count": 4,
+      "price_per_profile": "1.25",
+      "sale_price": "5.00",
+      "account_source": "provider",
+      "account_id": 73,
+      "notes": "",
+      "created_at": "2026-06-04T21:01:14.235Z"
     }
   ],
   "profile_sales": [
@@ -3686,6 +3771,127 @@
       "status": "active",
       "notes": null,
       "created_at": "2026-06-01T21:06:47.112Z"
+    },
+    {
+      "id": 202,
+      "group_id": 45,
+      "order_number": "849847546221301760",
+      "client_name": "GAMSGO",
+      "purchase_date": "2026-06-01T00:00:00.000Z",
+      "expiry_date": "2026-07-01T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-04T20:27:14.660Z"
+    },
+    {
+      "id": 203,
+      "group_id": 45,
+      "order_number": "849856643754758144",
+      "client_name": "GAMSGO",
+      "purchase_date": "2026-06-01T00:00:00.000Z",
+      "expiry_date": "2026-07-01T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-04T20:27:14.660Z"
+    },
+    {
+      "id": 204,
+      "group_id": 45,
+      "order_number": "850039578982223872",
+      "client_name": null,
+      "purchase_date": "2026-06-01T00:00:00.000Z",
+      "expiry_date": "2026-07-01T00:00:00.000Z",
+      "status": "active",
+      "notes": "GAMSGO",
+      "created_at": "2026-06-04T20:27:14.660Z"
+    },
+    {
+      "id": 205,
+      "group_id": 45,
+      "order_number": "850159067396706304",
+      "client_name": "GAMSGO",
+      "purchase_date": "2026-06-01T00:00:00.000Z",
+      "expiry_date": "2026-07-01T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-04T20:27:14.660Z"
+    },
+    {
+      "id": 206,
+      "group_id": 45,
+      "order_number": "850262308549693440",
+      "client_name": "GAMSGO",
+      "purchase_date": "2026-06-01T00:00:00.000Z",
+      "expiry_date": "2026-07-01T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-04T20:27:14.660Z"
+    },
+    {
+      "id": 207,
+      "group_id": 45,
+      "order_number": " 850272844628758528",
+      "client_name": "GAMSGO",
+      "purchase_date": "2026-06-01T00:00:00.000Z",
+      "expiry_date": "2026-07-01T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-04T20:27:14.660Z"
+    },
+    {
+      "id": 208,
+      "group_id": 45,
+      "order_number": "850469310102114304",
+      "client_name": null,
+      "purchase_date": "2026-06-01T00:00:00.000Z",
+      "expiry_date": "2026-07-01T00:00:00.000Z",
+      "status": "active",
+      "notes": "GAMSGO",
+      "created_at": "2026-06-04T20:27:14.660Z"
+    },
+    {
+      "id": 209,
+      "group_id": 46,
+      "order_number": null,
+      "client_name": null,
+      "purchase_date": "2026-06-04T00:00:00.000Z",
+      "expiry_date": "2026-07-04T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-04T21:01:14.235Z"
+    },
+    {
+      "id": 210,
+      "group_id": 46,
+      "order_number": null,
+      "client_name": null,
+      "purchase_date": "2026-06-04T00:00:00.000Z",
+      "expiry_date": "2026-07-04T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-04T21:01:14.235Z"
+    },
+    {
+      "id": 211,
+      "group_id": 46,
+      "order_number": null,
+      "client_name": null,
+      "purchase_date": "2026-06-04T00:00:00.000Z",
+      "expiry_date": "2026-07-04T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-04T21:01:14.235Z"
+    },
+    {
+      "id": 212,
+      "group_id": 46,
+      "order_number": null,
+      "client_name": null,
+      "purchase_date": "2026-06-04T00:00:00.000Z",
+      "expiry_date": "2026-07-04T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-04T21:01:14.235Z"
     }
   ],
   "full_account_sales": [
