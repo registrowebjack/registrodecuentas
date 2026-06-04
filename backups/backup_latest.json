@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T03:34:33.088Z",
+  "generated_at": "2026-06-04T09:34:33.145Z",
   "note": "Passwords excluded from backups for security",
   "own_accounts": [
     {
@@ -195,6 +195,13 @@
       "contact": "",
       "notes": "",
       "created_at": "2026-05-30T18:10:10.718Z"
+    },
+    {
+      "id": 8,
+      "name": "Z2U",
+      "contact": "",
+      "notes": "",
+      "created_at": "2026-06-04T09:01:20.743Z"
     }
   ],
   "provider_accounts": [
@@ -1029,6 +1036,45 @@
       "status": "in_use",
       "notes": "",
       "created_at": "2026-06-03T21:20:13.029Z"
+    },
+    {
+      "id": 68,
+      "provider_id": 2,
+      "email": "juanits92@hotmail.com",
+      "platform": "NBA",
+      "duration": "6",
+      "purchase_date": "2026-06-04T00:00:00.000Z",
+      "expiry_date": "2026-12-04T00:00:00.000Z",
+      "purchase_price": "3.00",
+      "status": "in_use",
+      "notes": "",
+      "created_at": "2026-06-04T08:19:35.385Z"
+    },
+    {
+      "id": 69,
+      "provider_id": 2,
+      "email": "josepmatamala@live.com",
+      "platform": "DAZN",
+      "duration": "1",
+      "purchase_date": "2026-06-04T00:00:00.000Z",
+      "expiry_date": "2026-07-04T00:00:00.000Z",
+      "purchase_price": "1.55",
+      "status": "in_use",
+      "notes": "",
+      "created_at": "2026-06-04T08:37:03.295Z"
+    },
+    {
+      "id": 71,
+      "provider_id": 5,
+      "email": "leydeeraouideni@outlook.com",
+      "platform": "ZOOM",
+      "duration": "1",
+      "purchase_date": "2026-06-04T00:00:00.000Z",
+      "expiry_date": "2026-07-04T00:00:00.000Z",
+      "purchase_price": "1.00",
+      "status": "in_use",
+      "notes": "",
+      "created_at": "2026-06-04T09:07:01.816Z"
     }
   ],
   "profile_groups": [
@@ -4298,6 +4344,54 @@
       "status": "active",
       "notes": "",
       "created_at": "2026-06-04T00:15:30.786Z"
+    },
+    {
+      "id": 44,
+      "email": "juanits92@hotmail.com",
+      "platform": "NBA",
+      "order_number": "850379886785859584",
+      "client_name": "",
+      "duration": "6",
+      "purchase_date": "2026-06-04T00:00:00.000Z",
+      "expiry_date": "2026-12-04T00:00:00.000Z",
+      "sale_price": "7.00",
+      "account_source": "provider",
+      "account_id": 68,
+      "status": "active",
+      "notes": "",
+      "created_at": "2026-06-04T08:24:03.868Z"
+    },
+    {
+      "id": 45,
+      "email": "josepmatamala@live.com",
+      "platform": "DAZN",
+      "order_number": "850402324781338624",
+      "client_name": "GAMSGO",
+      "duration": "1",
+      "purchase_date": "2026-06-04T00:00:00.000Z",
+      "expiry_date": "2026-07-04T00:00:00.000Z",
+      "sale_price": "3.00",
+      "account_source": "provider",
+      "account_id": 69,
+      "status": "active",
+      "notes": "",
+      "created_at": "2026-06-04T08:37:43.561Z"
+    },
+    {
+      "id": 47,
+      "email": "leydeeraouideni@outlook.com",
+      "platform": "ZOOM",
+      "order_number": "850315687640567808",
+      "client_name": "GAMSGO",
+      "duration": "1",
+      "purchase_date": "2026-06-04T00:00:00.000Z",
+      "expiry_date": "2026-07-04T00:00:00.000Z",
+      "sale_price": "2.00",
+      "account_source": "provider",
+      "account_id": 71,
+      "status": "active",
+      "notes": "",
+      "created_at": "2026-06-04T09:09:05.168Z"
     }
   ]
 }
