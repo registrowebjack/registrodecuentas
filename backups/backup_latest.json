@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T21:34:33.117Z",
+  "generated_at": "2026-06-05T03:34:33.066Z",
   "note": "Passwords excluded from backups for security",
   "own_accounts": [
     {
@@ -1134,6 +1134,19 @@
       "status": "in_use",
       "notes": "",
       "created_at": "2026-06-04T21:00:40.425Z"
+    },
+    {
+      "id": 74,
+      "provider_id": 3,
+      "email": "kkubasik23@gmail.com",
+      "platform": "Disney+",
+      "duration": "6",
+      "purchase_date": "2026-06-04T00:00:00.000Z",
+      "expiry_date": "2026-12-04T00:00:00.000Z",
+      "purchase_price": "1.00",
+      "status": "in_use",
+      "notes": "",
+      "created_at": "2026-06-05T00:22:27.922Z"
     }
   ],
   "profile_groups": [
@@ -1554,19 +1567,6 @@
       "created_at": "2026-06-01T17:37:41.134Z"
     },
     {
-      "id": 44,
-      "email": "caca@gmail.com",
-      "platform": "Netflix",
-      "duration": "",
-      "profiles_count": 2,
-      "price_per_profile": "2.01",
-      "sale_price": "4.02",
-      "account_source": "own",
-      "account_id": 30,
-      "notes": "",
-      "created_at": "2026-06-01T21:06:47.112Z"
-    },
-    {
       "id": 45,
       "email": "Disneyurus020@nutertool.net",
       "platform": "Disney+",
@@ -1591,6 +1591,19 @@
       "account_id": 73,
       "notes": "",
       "created_at": "2026-06-04T21:01:14.235Z"
+    },
+    {
+      "id": 47,
+      "email": "kkubasik23@gmail.com",
+      "platform": "Disney+",
+      "duration": "6",
+      "profiles_count": 1,
+      "price_per_profile": "5.00",
+      "sale_price": "5.00",
+      "account_source": "provider",
+      "account_id": 74,
+      "notes": "",
+      "created_at": "2026-06-05T00:25:38.606Z"
     }
   ],
   "profile_sales": [
@@ -3236,8 +3249,8 @@
     {
       "id": 153,
       "group_id": 33,
-      "order_number": null,
-      "client_name": null,
+      "order_number": "tumamijack",
+      "client_name": "JACKWEB",
       "purchase_date": "2026-05-30T00:00:00.000Z",
       "expiry_date": "2026-06-30T00:00:00.000Z",
       "status": "active",
@@ -3892,6 +3905,17 @@
       "status": "active",
       "notes": null,
       "created_at": "2026-06-04T21:01:14.235Z"
+    },
+    {
+      "id": 213,
+      "group_id": 47,
+      "order_number": "#850472527003258880",
+      "client_name": "GAMSGO",
+      "purchase_date": "2026-06-04T00:00:00.000Z",
+      "expiry_date": "2026-12-04T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-05T00:25:38.606Z"
     }
   ],
   "full_account_sales": [
