@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T21:34:33.134Z",
+  "generated_at": "2026-06-08T03:34:33.180Z",
   "note": "Passwords excluded from backups for security",
   "own_accounts": [
     {
@@ -1225,6 +1225,71 @@
       "status": "in_use",
       "notes": "",
       "created_at": "2026-06-07T21:28:52.357Z"
+    },
+    {
+      "id": 81,
+      "provider_id": 2,
+      "email": "dirk.martin80@gmx.de",
+      "platform": "DAZN",
+      "duration": "1",
+      "purchase_date": "2026-06-07T00:00:00.000Z",
+      "expiry_date": "2026-07-07T00:00:00.000Z",
+      "purchase_price": "1.50",
+      "status": "in_use",
+      "notes": "",
+      "created_at": "2026-06-07T21:36:37.678Z"
+    },
+    {
+      "id": 82,
+      "provider_id": 5,
+      "email": "erenuyt1@gmail.com",
+      "platform": "XBOX",
+      "duration": "1",
+      "purchase_date": "2026-06-07T00:00:00.000Z",
+      "expiry_date": "2026-07-07T00:00:00.000Z",
+      "purchase_price": "1.01",
+      "status": "in_use",
+      "notes": "",
+      "created_at": "2026-06-07T21:51:21.483Z"
+    },
+    {
+      "id": 83,
+      "provider_id": 3,
+      "email": " maxdreel9047@mailt.pro",
+      "platform": "HBO Max",
+      "duration": "1",
+      "purchase_date": "2026-06-06T00:00:00.000Z",
+      "expiry_date": "2026-07-06T00:00:00.000Z",
+      "purchase_price": "1.87",
+      "status": "active",
+      "notes": "",
+      "created_at": "2026-06-07T22:12:10.879Z"
+    },
+    {
+      "id": 84,
+      "provider_id": 3,
+      "email": "MAXfrancisco1880@mailt.pro",
+      "platform": "HBO Max",
+      "duration": "1",
+      "purchase_date": "2026-06-07T00:00:00.000Z",
+      "expiry_date": "2026-07-07T00:00:00.000Z",
+      "purchase_price": "1.87",
+      "status": "in_use",
+      "notes": "",
+      "created_at": "2026-06-07T22:30:18.160Z"
+    },
+    {
+      "id": 85,
+      "provider_id": 3,
+      "email": "krueger33@protopmet.org",
+      "platform": "Disney+",
+      "duration": "1",
+      "purchase_date": "2026-06-06T00:00:00.000Z",
+      "expiry_date": "2026-07-06T00:00:00.000Z",
+      "purchase_price": "3.27",
+      "status": "in_use",
+      "notes": "",
+      "created_at": "2026-06-08T03:09:15.461Z"
     }
   ],
   "profile_groups": [
@@ -1708,6 +1773,32 @@
       "account_id": 78,
       "notes": "",
       "created_at": "2026-06-07T01:32:28.685Z"
+    },
+    {
+      "id": 51,
+      "email": "MAXfrancisco1880@mailt.pro",
+      "platform": "HBO Max",
+      "duration": "1",
+      "profiles_count": 4,
+      "price_per_profile": "1.25",
+      "sale_price": "5.00",
+      "account_source": "provider",
+      "account_id": 84,
+      "notes": "",
+      "created_at": "2026-06-07T22:31:16.839Z"
+    },
+    {
+      "id": 52,
+      "email": "krueger33@protopmet.org",
+      "platform": "Disney+",
+      "duration": "1",
+      "profiles_count": 7,
+      "price_per_profile": "1.87",
+      "sale_price": "13.09",
+      "account_source": "provider",
+      "account_id": 85,
+      "notes": "",
+      "created_at": "2026-06-08T03:09:36.214Z"
     }
   ],
   "profile_sales": [
@@ -4024,8 +4115,8 @@
     {
       "id": 214,
       "group_id": 48,
-      "order_number": null,
-      "client_name": null,
+      "order_number": "Z9941839354",
+      "client_name": "z2u",
       "purchase_date": "2026-06-05T00:00:00.000Z",
       "expiry_date": "2026-07-05T00:00:00.000Z",
       "status": "active",
@@ -4035,8 +4126,8 @@
     {
       "id": 215,
       "group_id": 48,
-      "order_number": null,
-      "client_name": null,
+      "order_number": "Z1302496570",
+      "client_name": "z2u",
       "purchase_date": "2026-06-05T00:00:00.000Z",
       "expiry_date": "2026-07-05T00:00:00.000Z",
       "status": "active",
@@ -4046,8 +4137,8 @@
     {
       "id": 216,
       "group_id": 48,
-      "order_number": null,
-      "client_name": null,
+      "order_number": "Z1484593759",
+      "client_name": "z2u",
       "purchase_date": "2026-06-05T00:00:00.000Z",
       "expiry_date": "2026-07-05T00:00:00.000Z",
       "status": "active",
@@ -4057,8 +4148,8 @@
     {
       "id": 217,
       "group_id": 48,
-      "order_number": null,
-      "client_name": null,
+      "order_number": "Z9068408857",
+      "client_name": "z2u",
       "purchase_date": "2026-06-05T00:00:00.000Z",
       "expiry_date": "2026-07-05T00:00:00.000Z",
       "status": "active",
@@ -4075,6 +4166,182 @@
       "status": "active",
       "notes": null,
       "created_at": "2026-06-07T01:32:28.685Z"
+    },
+    {
+      "id": 219,
+      "group_id": 50,
+      "order_number": null,
+      "client_name": null,
+      "purchase_date": "2026-06-07T00:00:00.000Z",
+      "expiry_date": "2026-07-07T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-07T22:30:51.487Z"
+    },
+    {
+      "id": 220,
+      "group_id": 50,
+      "order_number": null,
+      "client_name": null,
+      "purchase_date": "2026-06-07T00:00:00.000Z",
+      "expiry_date": "2026-07-07T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-07T22:30:51.487Z"
+    },
+    {
+      "id": 221,
+      "group_id": 50,
+      "order_number": null,
+      "client_name": null,
+      "purchase_date": "2026-06-07T00:00:00.000Z",
+      "expiry_date": "2026-07-07T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-07T22:30:51.487Z"
+    },
+    {
+      "id": 222,
+      "group_id": 50,
+      "order_number": null,
+      "client_name": null,
+      "purchase_date": "2026-06-07T00:00:00.000Z",
+      "expiry_date": "2026-07-07T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-07T22:30:51.487Z"
+    },
+    {
+      "id": 223,
+      "group_id": 50,
+      "order_number": null,
+      "client_name": null,
+      "purchase_date": "2026-06-07T00:00:00.000Z",
+      "expiry_date": "2026-07-07T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-07T22:30:51.487Z"
+    },
+    {
+      "id": 224,
+      "group_id": 51,
+      "order_number": null,
+      "client_name": null,
+      "purchase_date": "2026-06-07T00:00:00.000Z",
+      "expiry_date": "2026-07-07T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-07T22:31:16.839Z"
+    },
+    {
+      "id": 225,
+      "group_id": 51,
+      "order_number": null,
+      "client_name": null,
+      "purchase_date": "2026-06-07T00:00:00.000Z",
+      "expiry_date": "2026-07-07T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-07T22:31:16.839Z"
+    },
+    {
+      "id": 226,
+      "group_id": 51,
+      "order_number": null,
+      "client_name": null,
+      "purchase_date": "2026-06-07T00:00:00.000Z",
+      "expiry_date": "2026-07-07T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-07T22:31:16.839Z"
+    },
+    {
+      "id": 227,
+      "group_id": 51,
+      "order_number": null,
+      "client_name": null,
+      "purchase_date": "2026-06-07T00:00:00.000Z",
+      "expiry_date": "2026-07-07T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-07T22:31:16.839Z"
+    },
+    {
+      "id": 228,
+      "group_id": 52,
+      "order_number": "851149134974029824",
+      "client_name": "GAMSGO",
+      "purchase_date": "2026-06-06T00:00:00.000Z",
+      "expiry_date": "2026-07-06T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-08T03:09:36.214Z"
+    },
+    {
+      "id": 229,
+      "group_id": 52,
+      "order_number": "851438026470068224",
+      "client_name": "GAMSGO",
+      "purchase_date": "2026-06-06T00:00:00.000Z",
+      "expiry_date": "2026-07-06T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-08T03:09:36.214Z"
+    },
+    {
+      "id": 230,
+      "group_id": 52,
+      "order_number": "851288275174952960",
+      "client_name": "GAMSGO",
+      "purchase_date": "2026-06-06T00:00:00.000Z",
+      "expiry_date": "2026-07-06T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-08T03:09:36.214Z"
+    },
+    {
+      "id": 231,
+      "group_id": 52,
+      "order_number": "851362264702390272",
+      "client_name": "GAMSGO",
+      "purchase_date": "2026-06-06T00:00:00.000Z",
+      "expiry_date": "2026-07-06T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-08T03:09:36.214Z"
+    },
+    {
+      "id": 232,
+      "group_id": 52,
+      "order_number": "851629217547423744",
+      "client_name": "GAMSGO",
+      "purchase_date": "2026-06-06T00:00:00.000Z",
+      "expiry_date": "2026-07-06T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-08T03:09:36.214Z"
+    },
+    {
+      "id": 233,
+      "group_id": 52,
+      "order_number": "851668055502229504",
+      "client_name": "GAMSGO",
+      "purchase_date": "2026-06-06T00:00:00.000Z",
+      "expiry_date": "2026-07-06T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-08T03:09:36.214Z"
+    },
+    {
+      "id": 234,
+      "group_id": 52,
+      "order_number": "851748835993718784",
+      "client_name": "GAMSGO",
+      "purchase_date": "2026-06-06T00:00:00.000Z",
+      "expiry_date": "2026-07-06T00:00:00.000Z",
+      "status": "active",
+      "notes": null,
+      "created_at": "2026-06-08T03:09:36.214Z"
     }
   ],
   "full_account_sales": [
@@ -4845,6 +5112,54 @@
       "status": "active",
       "notes": "",
       "created_at": "2026-06-07T21:29:21.567Z"
+    },
+    {
+      "id": 52,
+      "email": "dirk.martin80@gmx.de",
+      "platform": "DAZN",
+      "order_number": "851567993568759808",
+      "client_name": "GAMSGO",
+      "duration": "1",
+      "purchase_date": "2026-06-07T00:00:00.000Z",
+      "expiry_date": "2026-07-07T00:00:00.000Z",
+      "sale_price": "5.00",
+      "account_source": "provider",
+      "account_id": 81,
+      "status": "active",
+      "notes": "",
+      "created_at": "2026-06-07T21:37:50.911Z"
+    },
+    {
+      "id": 53,
+      "email": "dirk.martin80@gmx.de",
+      "platform": "DAZN",
+      "order_number": "851609352539344896",
+      "client_name": "GAMSGO",
+      "duration": "1",
+      "purchase_date": "2026-06-07T00:00:00.000Z",
+      "expiry_date": "2026-07-07T00:00:00.000Z",
+      "sale_price": "5.00",
+      "account_source": "provider",
+      "account_id": 81,
+      "status": "active",
+      "notes": "",
+      "created_at": "2026-06-07T21:39:10.276Z"
+    },
+    {
+      "id": 54,
+      "email": "erenuyt1@gmail.com",
+      "platform": "XBOX",
+      "order_number": "851613377372491776",
+      "client_name": "GAMSGO",
+      "duration": "1",
+      "purchase_date": "2026-06-07T00:00:00.000Z",
+      "expiry_date": "2026-07-07T00:00:00.000Z",
+      "sale_price": "2.00",
+      "account_source": "provider",
+      "account_id": 82,
+      "status": "active",
+      "notes": "",
+      "created_at": "2026-06-07T21:52:26.139Z"
     }
   ]
 }
