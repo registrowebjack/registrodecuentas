@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T03:34:33.271Z",
+  "generated_at": "2026-06-10T09:34:33.256Z",
   "note": "Passwords excluded from backups for security",
   "own_accounts": [
     {
@@ -1485,6 +1485,58 @@
       "status": "in_use",
       "notes": "",
       "created_at": "2026-06-10T00:35:31.331Z"
+    },
+    {
+      "id": 101,
+      "provider_id": 8,
+      "email": "ennio.aquilino@gmail.com",
+      "platform": "DAZN",
+      "duration": "1",
+      "purchase_date": "2026-06-09T00:00:00.000Z",
+      "expiry_date": "2026-07-09T00:00:00.000Z",
+      "purchase_price": "2.05",
+      "status": "in_use",
+      "notes": "",
+      "created_at": "2026-06-10T04:54:15.307Z"
+    },
+    {
+      "id": 102,
+      "provider_id": 2,
+      "email": "Benicos1312@yahoo.es",
+      "platform": "DAZN",
+      "duration": "1",
+      "purchase_date": "2026-06-10T00:00:00.000Z",
+      "expiry_date": "2026-07-10T00:00:00.000Z",
+      "purchase_price": "1.50",
+      "status": "in_use",
+      "notes": "",
+      "created_at": "2026-06-10T05:13:44.770Z"
+    },
+    {
+      "id": 103,
+      "provider_id": 8,
+      "email": "ingridgoertz@yahoo.de",
+      "platform": "DAZN",
+      "duration": "1",
+      "purchase_date": "2026-06-10T00:00:00.000Z",
+      "expiry_date": "2026-07-10T00:00:00.000Z",
+      "purchase_price": "3.10",
+      "status": "in_use",
+      "notes": "",
+      "created_at": "2026-06-10T05:27:35.016Z"
+    },
+    {
+      "id": 104,
+      "provider_id": 8,
+      "email": "Miriam_gc@hotmail.es",
+      "platform": "DAZN",
+      "duration": "1",
+      "purchase_date": "2026-06-10T00:00:00.000Z",
+      "expiry_date": "2026-07-10T00:00:00.000Z",
+      "purchase_price": "1.55",
+      "status": "in_use",
+      "notes": "",
+      "created_at": "2026-06-10T05:41:50.249Z"
     }
   ],
   "profile_groups": [
@@ -5641,6 +5693,70 @@
       "status": "active",
       "notes": "",
       "created_at": "2026-06-10T00:36:13.131Z"
+    },
+    {
+      "id": 67,
+      "email": "ennio.aquilino@gmail.com",
+      "platform": "DAZN",
+      "order_number": "852245721284481024",
+      "client_name": "",
+      "duration": "1",
+      "purchase_date": "2026-06-09T00:00:00.000Z",
+      "expiry_date": "2026-07-09T00:00:00.000Z",
+      "sale_price": "3.06",
+      "account_source": "provider",
+      "account_id": 101,
+      "status": "active",
+      "notes": "",
+      "created_at": "2026-06-10T04:55:12.785Z"
+    },
+    {
+      "id": 68,
+      "email": "Benicos1312@yahoo.es",
+      "platform": "DAZN",
+      "order_number": "852230583613526016",
+      "client_name": "GAMSGO",
+      "duration": "1",
+      "purchase_date": "2026-06-10T00:00:00.000Z",
+      "expiry_date": "2026-07-10T00:00:00.000Z",
+      "sale_price": "2.82",
+      "account_source": "provider",
+      "account_id": 102,
+      "status": "active",
+      "notes": "",
+      "created_at": "2026-06-10T05:14:24.958Z"
+    },
+    {
+      "id": 69,
+      "email": "ingridgoertz@yahoo.de",
+      "platform": "DAZN",
+      "order_number": "852316154109235200",
+      "client_name": "GAMSGO",
+      "duration": "1",
+      "purchase_date": "2026-06-10T00:00:00.000Z",
+      "expiry_date": "2026-07-10T00:00:00.000Z",
+      "sale_price": "5.00",
+      "account_source": "provider",
+      "account_id": 103,
+      "status": "active",
+      "notes": "",
+      "created_at": "2026-06-10T05:29:40.004Z"
+    },
+    {
+      "id": 70,
+      "email": "Miriam_gc@hotmail.es",
+      "platform": "DAZN",
+      "order_number": "852538776440934400",
+      "client_name": "GAMSGO",
+      "duration": "1",
+      "purchase_date": "2026-06-10T00:00:00.000Z",
+      "expiry_date": "2026-07-10T00:00:00.000Z",
+      "sale_price": "2.82",
+      "account_source": "provider",
+      "account_id": 104,
+      "status": "active",
+      "notes": "",
+      "created_at": "2026-06-10T05:42:11.632Z"
     }
   ]
 }
